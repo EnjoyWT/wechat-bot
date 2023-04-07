@@ -13,12 +13,11 @@
 一个 基于 `chatgpt` + `wechaty` 的微信机器人
 
 可以用来帮助你自动回复微信消息，或者管理微信群/好友.
-原作者很用心.
+[原作者](https://github.com/wangrongding/wechat-bot)很用心.
 
 ## 近期的改动
 
 ### 12.13 更新
-
 不少人今天运行不了，参考这条 [issue](https://github.com/wangrongding/wechat-bot/issues/54#issuecomment-1347880291) ,暂时这样处理下，有好的方案大家可以提出来，谢谢~
 
 ### 12.12 更新
